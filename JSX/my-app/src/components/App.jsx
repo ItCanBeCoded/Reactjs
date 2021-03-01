@@ -5,9 +5,11 @@ import Note from "./Note";
 
 function App(){
     return(
-       <Header />,
-       <Note />,
+    <div>
+       <Header />
+       <Note />
        <Footer />
+    </div>
     );
 }
 
