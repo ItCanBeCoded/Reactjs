@@ -9,3 +9,6 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+
+//render all notes inside notes.js as a sepearate note component
+//with props and mapping
